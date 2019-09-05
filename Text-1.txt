@@ -1,0 +1,2 @@
+Hello there!
+Welcome to the first session of DevOps.
