@@ -1,1 +1,1 @@
-This file is for Reverting the changes in file with modifications.
+This file is for Reverting the changes in file.
